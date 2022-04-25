@@ -31,6 +31,8 @@ Thee an Empire Be": "fais de ta Pensée un Empire".
 
 - Our GitHub:
   - https://github.com/stigmee
+- Our itch:
+  - https://stigmee.itch.io
 - Our laboratory (private):
   - https://labo.stigmee.fr
 - Our mediatheque:
