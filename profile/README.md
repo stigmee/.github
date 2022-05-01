@@ -27,6 +27,8 @@ Thee an Empire Be": "fais de ta Pensée un Empire".
 
 ## Resources
 
+- The mockup before this project:
+  - http://chreage.befuse.com/content/WEBGL/ChreageAlpha0-3/index.html
 - Our GitHub:
   - https://github.com/stigmee
 - Our itch:
@@ -39,8 +41,8 @@ Thee an Empire Be": "fais de ta Pensée un Empire".
   - https://discord.gg/SB7vAgDyNG
 - Tutorial concerning our Discord (Google doc):
   - https://docs.google.com/document/d/1PurXBZW6FXdPvxGwbI8tUxvNBjJ6qN9o/edit
-- Our first mockup:
-  - http://chreage.befuse.com/content/WEBGL/ChreageAlpha0-3/index.html
+- Some dev log videos (french) explaining the code:
+  - https://youtu.be/wWxWAMTDwSw
 
 ## GitHub
 
